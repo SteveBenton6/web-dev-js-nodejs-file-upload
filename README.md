@@ -8,7 +8,7 @@
 
 ## 468 - Parsing Incoming File Uploads With The "multer" Package [Day 67]
 
-## 469 - Configuring Multer-In Depth [Day 67]
+## 469 - Configuring Multer In-Depth [Day 67]
 
 ## 470 - How To Store Files On A Backend [Day 67]
 
