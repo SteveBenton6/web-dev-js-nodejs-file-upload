@@ -32,7 +32,6 @@ router.post("/profiles", upload.single("image"), async function (req, res) {
     name: userData.username,
     imagePath: uploadedImageFile.path,
   });
-
   res.redirect("/");
 });
 

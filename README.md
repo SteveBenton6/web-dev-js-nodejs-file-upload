@@ -18,4 +18,4 @@
 
 ## 473 - Adding An Image Preview Feature [Day 68]
 
-## 474 - Module Summary [Day 67]
+## 474 - Module Summary [Day 68]
