@@ -1,4 +1,4 @@
-# Section 27: Adding File Upload To A Website [Day 67-68]
+# Section 27: Adding File Upload To A Website [Days 67-68]
 
 ## 465 - Module Introduction [Day 67]
 
